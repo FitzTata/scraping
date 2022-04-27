@@ -121,7 +121,7 @@ class HHScraper:
 
 if __name__ == "__main__":
     mongo = MongoMagic()
-    # scraper = HHScraper()
-    # scraper.process()
+    scraper = HHScraper()
+    scraper.process()
     mongo.find_by_salary_and_print()
     # scraper.save_info_to_json()
