@@ -1,2 +1,1 @@
-# gb_scraping
-aboba
+# scraping, parcing
